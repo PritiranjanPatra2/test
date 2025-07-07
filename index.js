@@ -1,2 +1,2 @@
-let x="jjj"
-let y="aaa"
+console.log("xyz");
+console.log('amazon')
